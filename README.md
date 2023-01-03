@@ -1,4 +1,5 @@
-
+# Introduction
+Object Detection is widely applied in many areas of computer vision, including security, automatic vehicle systems, traffic monitoring, inventory management, and so on.
 
 # How to Stitch NMS/FINN IPs on Vivado
 
