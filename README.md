@@ -1,6 +1,10 @@
 # Introduction
 Object Detection is widely applied in many areas of computer vision, including security, automatic vehicle systems, traffic monitoring, inventory management, and so on.
 
+# Folder structure
+
+
+
 # How to Stitch NMS/FINN IPs on Vivado
 
 Create Project
@@ -51,7 +55,7 @@ Generate Bitstream
 
 
 
-# How to build the code
+# Build Setup
 Step 1. Training Model  
 execute
 ```shell
