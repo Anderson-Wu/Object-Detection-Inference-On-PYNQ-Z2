@@ -1,3 +1,4 @@
+# This code is from course-lab_finn in [bol-edu's github repository](https://github.com/bol-edu/course-lab_finn) 
 # BNN-PYNQ Brevitas experiments
 
 This repo contains training scripts and pretrained models to recreate the LFC and CNV models
