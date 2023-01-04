@@ -18,6 +18,7 @@ impl_result/            # bitstream (.bit, .hwh) & Vivado IPs
     bitstream_finn_nms/ # generated & modified 4w4a bitstream & driver.py for stitched finn and nms (failed)
     finn_ip/            # for Vivado IP flow
     nms_ip/             # for Vivado IP flow
+LICENSE
 ```
 
 
