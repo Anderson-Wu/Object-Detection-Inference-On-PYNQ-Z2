@@ -3,6 +3,22 @@ Object Detection is widely applied in many areas of computer vision, including s
 
 # Folder structure
 
+```
+README.md
+build/                  # build scripts – bitstream generation
+docs/                   # Documentation files – ppt, pdf, md
+images/                 # images for README.md
+src/                    # all source code, include kernel & host - code, cpp, hpp, other include files
+    baseline/           # baseline code
+    finn/               # finn model training code
+    host/               # host code
+    nms/                # nms sw & hls code
+impl_result/            # bitstream (.bit, .hwh) & Vivado IPs
+    bitstream_finn/     # generated XwXa bitstream & driver.py for finn only
+    bitstream_finn_nms/ # generated & modified 4w4a bitstream & driver.py for stitched finn and nms (failed)
+    finn_ip/            # for Vivado IP flow
+    nms_ip/             # for Vivado IP flow
+```
 
 
 # How to Stitch NMS/FINN IPs on Vivado
